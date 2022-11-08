@@ -1,16 +1,20 @@
 # webview
 
-A new Flutter project.
+Testing a webview Widgets on Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+How to Install:
+- Connect your android device
+- Open terminal
+- Enter `cd [project]`
+- Run `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
+Here is your first look:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://user-images.githubusercontent.com/60084317/200487629-8fe6b7f9-3924-4f3b-a68c-c2929769c45e.jpg" width="200">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+You can change the web link on `lib/main.dart` 
+
+![image](https://user-images.githubusercontent.com/60084317/200487452-073e63b2-1cf9-487f-8dfe-3b03f1f12d3a.png)
